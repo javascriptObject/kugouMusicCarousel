@@ -1,2 +1,8 @@
-# kugouMusicCarousel
-仿酷狗音乐轮播图
+# 仿酷狗音乐轮播图
+
+* 效果展示1
+![](img.gif)
+* 效果展示2
+![](img2.gif)
+* 效果展示3
+![](img3.gif)
